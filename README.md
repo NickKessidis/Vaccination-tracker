@@ -1,3 +1,3 @@
-# Vaccination-tracker
-Created during the 6th Skg.code, the website is an advanced vaccination tracking platform for hospitals. 
-Powered with MERN techologies.
+# vaccineTracker
+
+<p align="center">During SKG.Code we created a covid vaccination tracker for hospitals.</p>
